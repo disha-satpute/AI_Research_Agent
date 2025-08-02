@@ -11,7 +11,6 @@ An intelligent AI-powered Research Assistant developed using **IBM Watsonx.ai** 
 - 📚 Write sections like Abstract, Introduction, and Related Work
 - 🧾 Generate citations in **APA**, **IEEE**, or **MLA** format
 - 💡 Suggest research topics and project ideas
-- 🗣️ Multilingual support: English, Hindi, and Marathi
 - 🧑‍🏫 Trained for science, tech, engineering, medical & social science domains
 
 ---
@@ -22,7 +21,6 @@ An intelligent AI-powered Research Assistant developed using **IBM Watsonx.ai** 
 |-------------------|--------------------------------------|
 | **IBM Watsonx.ai**| LLM orchestration and inference      |
 | **Granite-3.3-8b**| Instruction-tuned IBM LLM            |
-| **Node.js / Python** | Optional backend APIs (if used)  |
 | **IBM Cloud Lite**| Hosting & deployment                 |
 | **RAG Architecture** | Combines retrieval with generation|
 
@@ -33,13 +31,9 @@ An intelligent AI-powered Research Assistant developed using **IBM Watsonx.ai** 
 > “Researchers often struggle to keep up with the explosion of academic content. Our AI Research Agent solves this by automating literature review and report writing using intelligent conversational interfaces.”
 
 ---
+## 🎥 Demo Video
 
-## 🚀 Quick Start Questions
-
-- “Summarize latest research on Blockchain in healthcare.”
-- “Find IEEE papers on IoT security from 2023.”
-- “Generate citations in APA format for these papers.”
-- “Suggest research topics in sustainable AI.”
+👉 [View Demo Video](https://drive.google.com/file/d/1hzyJBzqd1pNdRWcPaWSHyY9s4p6pws__/view?usp=sharing)
 
 ---
 

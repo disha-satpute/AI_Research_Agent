@@ -54,6 +54,8 @@ B.Tech Student | IBM Intern
 
 ## 📎 License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 This project is for educational and academic research purposes only.
 
 ---

@@ -48,7 +48,7 @@ An intelligent AI-powered Research Assistant developed using **IBM Watsonx.ai** 
 ## 👤 Developed By
 
 **Disha Satpute**  
-B.Tech Student | IBM Intern
+B.Tech Student 
 
 ---
 

@@ -1,62 +1,158 @@
-# 🤖 AI Research Agent | IBM Capstone Project
 
-An intelligent AI-powered Research Assistant developed using **IBM Watsonx.ai** and **Granite models** on **IBM Cloud**. This agent helps researchers, students, and professionals streamline literature discovery, generate summaries, write academic sections, and format citations—faster and smarter.
+# 🧠 AI Research Agent
 
----
-
-## 🌟 Features
-
-- 🔍 Retrieve academic papers from trusted sources (IEEE, Springer, arXiv)
-- 🧠 Generate summaries and identify research gaps using NLP + RAG
-- 📚 Write sections like Abstract, Introduction, and Related Work
-- 🧾 Generate citations in **APA**, **IEEE**, or **MLA** format
-- 💡 Suggest research topics and project ideas
-- 🧑‍🏫 Trained for science, tech, engineering, medical & social science domains
+An AI-powered research assistant built using **IBM watsonx.ai** and **Retrieval-Augmented Generation (RAG)**. This intelligent agent helps students, educators, and researchers discover, summarize, and organize academic papers and technical documents efficiently.
 
 ---
 
-## 🧪 Tech Stack
-
-| Technology        | Description                          |
-|-------------------|--------------------------------------|
-| **IBM Watsonx.ai**| LLM orchestration and inference      |
-| **Granite-3.3-8b**| Instruction-tuned IBM LLM            |
-| **IBM Cloud Lite**| Hosting & deployment                 |
-| **RAG Architecture** | Combines retrieval with generation|
+![AI Research Agent]
+(assets/AI.png)
 
 ---
 
-## 📌 Use Case
+## 🧩 Problem Statement
 
-> “Researchers often struggle to keep up with the explosion of academic content. Our AI Research Agent solves this by automating literature review and report writing using intelligent conversational interfaces.”
+Students and researchers often struggle to:
 
----
-## 🎥 Demo Video
+- Find relevant and high-quality academic resources  
+- Understand complex papers quickly  
+- Summarize large volumes of research  
+- Organize knowledge systematically
 
-👉 [View Demo Video](https://drive.google.com/file/d/1hzyJBzqd1pNdRWcPaWSHyY9s4p6pws__/view?usp=sharing)
-
----
-
-## 📈 Outcome
-
-✅ Developed as part of the **IBM Internship Capstone Project**  
-✅ Trained to assist in academic research workflows  
-✅ Integrated with real-world tools for practical use
+This leads to time-consuming, inefficient research efforts.
 
 ---
 
-## 👤 Developed By
+## 💡 Proposed Solution
 
-**Disha Satpute**  
-B.Tech Student 
+An **AI Research Agent** that:
 
----
+- Retrieves relevant papers from uploaded academic content  
+- Summarizes key points using LLMs  
+- Answers research-related questions using grounded context from sources  
+- Suggests related work, methodologies, and literature gaps
 
-## 📎 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-This project is for educational and academic research purposes only.
+Using **IBM watsonx.ai** and **RAG**, the system provides **document-grounded** and **natural-language responses**, improving research productivity.
 
 ---
 
+## 🧠 Technologies Used
+
+- IBM watsonx.ai Studio  
+- IBM Granite Foundation LLM  
+- PDF research papers (IEEE, arXiv, etc.)  
+- Natural Language Processing (NLP)  
+- IBM Cloud Object Storage  
+
+---
+
+## ☁️ IBM Cloud Services Used
+
+- IBM watsonx.ai Studio  
+- IBM Granite Model  
+- IBM Cloud Object Storage  
+- IBM Cloud Lite Account  
+- IAM & Access Policies  
+
+---
+
+## 👥 End Users
+
+- University Students  
+- Research Scholars  
+- Academic Faculty  
+- R&D Professionals  
+- Research Labs  
+- Mentors and Guides  
+
+---
+
+## 🌟 Key Features
+
+- 🔍 Query-based search on academic PDFs  
+- 📄 Summarizes technical documents  
+- 🧠 Contextual, grounded answers via RAG  
+- 📚 Recommends related work / missing citations  
+- 🧾 Handles unrelated questions gracefully  
+- 🌐 clear about admin, usecase, work related questions
+
+---
+
+## 🚀 How It Works
+
+1. User enters a research-related question  
+2. IBM Granite LLM interprets the query  
+3. Vector Index retrieves relevant excerpts from academic PDFs  
+4. Agent responds with grounded, concise answers and summaries  
+
+---
+
+## 🖼️ Screenshots
+
+### 🔹 Agent Configuration  
+![Setup](assets/setup.png)
+
+### 🔹 Instruction Settings  
+![Agent Instructions](assets/instructions.png)
+
+### 🔹 Quick Research Prompts  
+![Quick Start](assets/preview-questio.png)
+
+### 🔹 Tool Stack & Testing Phase  
+![Testing](assets/AI_tools.png)
+
+### 🔹 Deployment Demo  
+![Deployment](assets/model_deployment.png)
+
+### 🔹 API & Integration  
+![API References](assets/API%20references.png)
+
+
+---
+
+## 📌 How to Use
+
+1. Sign into [IBM Cloud Lite](https://cloud.ibm.com/registration)  
+2. Launch **watsonx.ai Studio**  
+3. Create a **Custom AI Agent**  
+4. Configure system instructions and grounding  
+5. Test queries in the preview window  
+6. Deploy using web UI, iframe, or Streamlit  
+
+---
+
+## 🛣️ Future Scope
+
+- Semantic search using embeddings  
+- Voice-based interaction for faster Q&A  
+- Collaborative agent for group research  
+- Automatic bib generation / citation manager  
+- Mobile app for research on-the-go  
+- Cross-lingual research support using Watson Translator  
+
+---
+
+## 🔗 Useful Links
+
+- [IBM Watsonx.ai](https://www.ibm.com/products/watsonx-ai)  
+- [IBM Cloud Object Storage](https://www.ibm.com/cloud/object-storage)  
+- [arXiv.org](https://arxiv.org) – Open access scientific papers  
+- [IBM SkillsBuild](https://skillsbuild.org)  
+- [Google Scholar](https://scholar.google.com)
+
+---
+
+## ⚖️ License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🙋‍♂️ Connect With Me
+
+🔗 [LinkedIn - Disha Satpute](https://www.linkedin.com/in/disha-satpute)
+
+---
+
+> Created  during the **IBM SkillsBuild Internship 2025**  
+> by **Disha Satpute** – *AI Research Agent Developer*

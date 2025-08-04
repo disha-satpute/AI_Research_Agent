@@ -5,8 +5,7 @@ An AI-powered research assistant built using **IBM watsonx.ai** and **Retrieval-
 
 ---
 
-![AI Research Agent]
-(assets/AI.png)
+![AI Research Agent](assets/AI.png)
 
 ---
 
@@ -102,7 +101,7 @@ Using **IBM watsonx.ai** and **RAG**, the system provides **document-grounded** 
 ![Testing](assets/AI_tools.png)
 
 ### 🔹 Deployment Demo  
-![Deployment](assets/model_deployment.png)
+![Deployment](assets/demo.png)
 
 ### 🔹 API & Integration  
 ![API References](assets/API%20references.png)

@@ -80,9 +80,8 @@ Using **IBM watsonx.ai** and **RAG**, the system provides **document-grounded** 
 ## 🚀 How It Works
 
 1. User enters a research-related question  
-2. IBM Granite LLM interprets the query  
-3. Vector Index retrieves relevant excerpts from academic PDFs  
-4. Agent responds with grounded, concise answers and summaries  
+2. IBM Granite LLM interprets the query   
+3. Agent responds with grounded, concise answers and summaries  
 
 ---
 

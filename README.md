@@ -148,11 +148,14 @@ Watch the working demo of the AI Research Agent:
 ## ⚖️ License
 
 This project is licensed under the [MIT License](LICENSE).
-
+ 
 ---
 
 ## 🙋‍♂️ Created by
 
-Disha Pandurang SatputeB.Tech Student | IBM SkillsBuild Internship 2025
-[LinkedIn: Connect with me](https://www.linkedin.com/in/disha-satpute)
+> Disha Pandurang Satpute
+
+> B.Tech Student | IBM SkillsBuild Internship 2025
+
+> LinkedIn: [Connect with me](https://www.linkedin.com/in/disha-satpute)
 

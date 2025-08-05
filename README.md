@@ -130,6 +130,11 @@ Using **IBM watsonx.ai** and **RAG**, the system provides **document-grounded** 
 
 ---
 
+## 📽️ Demo Video
+Watch the working demo of the AI Research Agent:
+[Click here to watch](https://drive.google.com/file/d/1hzyJBzqd1pNdRWcPaWSHyY9s4p6pws__/view?usp=sharing)
+
+---
 ## 🔗 Useful Links
 
 - [IBM Watsonx.ai](https://www.ibm.com/products/watsonx-ai)  
@@ -146,11 +151,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🙋‍♂️ Connect With Me
+## 🙋‍♂️ Created by
 
-🔗 [LinkedIn - Disha Satpute](https://www.linkedin.com/in/disha-satpute)
+Disha Pandurang SatputeB.Tech Student | IBM SkillsBuild Internship 2025
+[LinkedIn: Connect with me](https://www.linkedin.com/in/disha-satpute)
 
----
-
-> Created  during the **IBM SkillsBuild Internship 2025**  
-> by **Disha Satpute** – *AI Research Agent Developer*
